@@ -7,5 +7,4 @@
 Программа работает в консоли.
 
 ## Запуск
-Скачать файл timer.py и alarm.mp3, открыть папку с файлом в командной строке(*cmd*) и вписать `python timer.py` или `python3 timer.py`.
-
+Скачать файл timer.py и alarm.mp3, открыть папку с файлом в командной строке(*cmd*) и вписать `python timer.py` или `python3 timer.py`. Установить библиотеки *requerments.txt* через `pip install requerments.txt`.
