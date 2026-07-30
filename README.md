@@ -19,7 +19,7 @@ Clone the repository:
 
 ### General launch guide for all projects
 
-Download the `main.py` file, open the folder containing the file in the command prompt (*cmd*), and type `python main.py` or `python3 main.py`. Some projects require additional libraries (*playsound==1.2.2, datetime*), provided in ***requerments.txt*** for installation via `pip install requerments.txt`.
+Download the `main.py` file, open the folder containing the file in the command prompt (*cmd*), and type `python main.py` or `python3 main.py`. Some projects require additional libraries (*playsound==1.2.2, datetime*), provided in ***requirments.txt*** for installation via `pip install requirments.txt`.
 
 ## Future Projects Roadmap
 The following projects may be added:  
