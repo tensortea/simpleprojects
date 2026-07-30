@@ -1,3 +1,8 @@
+# Converter — English summary
+A console unit converter supporting speed, distance, temperature, area, and volume conversions.
+
+---
+
 # Конвертер значений
 ### 5 категорий конвертации в оболочке терминала:
 1. Скорость
