@@ -1,3 +1,8 @@
+# Timer — English summary
+A console timer with two modes: set an alarm for a specific time, or set a countdown. Plays a sound when done.
+
+---
+
 # Таймер
 Таймер с двумя режимами работы:
 1. Звонок к определенному времени(как будильник)
