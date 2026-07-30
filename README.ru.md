@@ -9,6 +9,11 @@
 5. **Виселица** - классическая игра виселица в консоли
 6. **Таймер** - таймер с двумя режимами (к времени / через время) и звонком
 
+## Начало работы
+Клонируйте репозиторий:  
+`git clone [https://github.com/tensortea/simpleprojects.git](https://github.com/tensortea/simpleprojects.git)`  
+`cd simpleprojects`
+
 ### Обобщенный запуск всех проектов
 Скачать файл main.py, открыть папку с файлом в командной строке(*cmd*) и вписать `python main.py` или `python3 main.py`. В некоторых проектах требуются дополнительные библиотеки(*playsound==1.2.2, datetime*), предоставленные в ***requerments.txt*** для установки через `pip install requerments.txt`
 
