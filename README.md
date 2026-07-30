@@ -1,19 +1,40 @@
-# Сборник небольших, легких и банально простых проектов на базе языка **Python**
-В каждой из директорий представлен файл `readme.md` с описанием каждого проекта и туториалу по его запуску в конце.
+# Collection of small, lightweight, and trivially simple **Python** projects
 
-## Проекты
-1. **Калькулятор** - простой консольный калькулятор с несколькими функциями
-2. **Угадай число** - игра на угадывание числа за определенное количество попыток
-3. **Генератор пароля** - генератор безопасных паролей заданной длины
-4. **Конвертер** - конвертирует значения(например, Км в Мили, градусы Кельвина в Цельсии)
-5. **Виселица** - классическая игра виселица в консоли
-6. **Таймер** - таймер с двумя режимами (к времени / через время) и звонком
+Each directory contains a `readme.md` file with a description of each project and a tutorial on how to run it at the end.
 
-### Обобщенный запуск всех проектов
-Скачать файл main.py, открыть папку с файлом в командной строке(*cmd*) и вписать `python main.py` или `python3 main.py`. В некоторых проектах требуются дополнительные библиотеки(*playsound==1.2.2, datetime*), предоставленные в ***requerments.txt*** для установки через `pip install requerments.txt`
+## Projects
 
-## Навигатор будущих проектов
-Возможно появление следующих проектов:
-1. Крестики-Нолики для двух игроков или с ботом
-2. Менеджер задач(ToDo list)
-3. Маленькая новелла в консоли
+1. **Calculator** - a simple console calculator with several functions
+
+
+2. **Guess the Number** - a game about guessing a number within a specified number of attempts
+
+
+3. **Password Generator** - a secure password generator of a specified length
+
+
+4. **Converter** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)
+
+
+5. **Hangman** - classic hangman game in the console
+
+
+6. **Timer** - a timer with two modes (until a specific time / after a time interval) and a chime
+
+
+
+### General launch guide for all projects
+
+Download the `main.py` file, open the folder containing the file in the command prompt (*cmd*), and type `python main.py` or `python3 main.py`. Some projects require additional libraries (*playsound==1.2.2, datetime*), provided in ***requerments.txt*** for installation via `pip install requerments.txt`.
+
+## Future Projects Roadmap
+
+The following projects may be added:
+
+1. Tic-Tac-Toe for two players or with a bot
+
+
+2. Task Manager (ToDo list)
+
+
+3. Short console visual novel
