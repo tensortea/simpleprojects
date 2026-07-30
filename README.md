@@ -10,7 +10,12 @@ Each directory contains a `readme.md` file with a description of each project an
 3. **Password Generator** - a secure password generator of a specified length  
 4. **Converter** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
 5. **Hangman** - classic hangman game in the console  
-6. **Timer** - a timer with two modes (until a specific time / after a time interval) and a chime  
+6. **Timer** - a timer with two modes (until a specific time / after a time interval) and a chime
+## Getting Started
+Clone the repository:
+
+`git clone https://github.com/tensortea/simpleprojects.git`  
+`cd simpleprojects`
 
 ### General launch guide for all projects
 
