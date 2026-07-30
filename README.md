@@ -1,6 +1,8 @@
 # Collection of small, lightweight, and trivially simple **Python** projects
 
-Each directory contains a `readme.md` file with a description of each project and a tutorial on how to run it at the end.
+Each directory contains a `readme.md` file with a description of each project and a tutorial on how to run it at the end.  
+
+[Русский](./README.ru.md)
 
 ## Projects
 
