@@ -2,7 +2,7 @@
 
 Each directory contains a `readme.md` file with a description of each project and a tutorial on how to run it at the end.  
 
-![Russian](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-readme?style=flat-square&logo=python&color=white&link=https%3A%2F%2Fgithub.com%2Ftensortea%2Fsimpleprojects%2Fblob%2Fmain%2FREADME.ru.md)
+[Русский](./README.ru.md)
 
 ## Projects  
 1. **Calculator** - a simple console calculator. Supports arithmetic, powers, roots, and trigonometric functions.  
