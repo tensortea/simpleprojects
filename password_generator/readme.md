@@ -1,3 +1,8 @@
+# Password Generator — English summary
+Generates a strong password of any length using uppercase, lowercase, digits, and special characters.
+
+---
+
 # Генератор пароля
 Скрипт по созданию надежного пароля, который практически невозможно будет взломать. Длину пароля можно выбрать
 ## Запуск
