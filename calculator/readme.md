@@ -1,3 +1,11 @@
+# Calculator — English summary
+A console calculator supporting arithmetic, powers, roots, and trigonometry.
+
+---
+
+
+
+
 # Калькулятор
 **Калькулятор** в консоли с многими операциями между двух чисел
 ### Операции
