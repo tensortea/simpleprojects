@@ -17,7 +17,7 @@ Clone the repository:
 git clone https://github.com/tensortea/simpleprojects.git
 cd simpleprojects
 ```
-
+*Install Python 3.6+*
 ### Usage
 
 Download the `main.py` file, open the folder containing the file in the command prompt (*cmd*), and type `python main.py` or `python3 main.py`. Some projects require additional libraries (*playsound==1.2.2*), provided in ***requirements.txt*** for installation via `pip install requirements.txt`.
