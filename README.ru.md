@@ -16,7 +16,7 @@ git clone [https://github.com/tensortea/simpleprojects.git](https://github.com/t
 cd simpleprojects
 ```
 ### Обобщенный запуск всех проектов
-Скачать файл main.py, открыть папку с файлом в командной строке(*cmd*) и вписать `python main.py` или `python3 main.py`. В некоторых проектах требуются дополнительные библиотеки(*playsound==1.2.2, datetime*), предоставленные в ***requirements.txt*** для установки через `pip install requirements.txt`
+Скачать файл main.py, открыть папку с файлом в командной строке(*cmd*) и вписать `python main.py` или `python3 main.py`. В некоторых проектах требуются дополнительные библиотеки(*playsound==1.2.2*), предоставленные в ***requirements.txt*** для установки через `pip install requirements.txt`
 
 ## Навигатор будущих проектов
 Возможно появление следующих проектов:
