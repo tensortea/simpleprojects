@@ -5,11 +5,11 @@ Each directory contains a `readme.md` file with a description of each project an
 [Русский](./README.ru.md)
 
 ## Projects  
-1. **Calculator** - a simple console calculator with several functions  
+1. **Calculator** - a simple console calculator. Supports arithmetic, powers, roots, and trigonometric functions.  
 2. **Guess the Number** - a game about guessing a number within a specified number of attempts  
 3. **Password Generator** - a secure password generator of a specified length  
 4. **Converter** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
-5. **Hangman** - classic hangman game in the console  
+5. **Hangman** - classic hangman game in the console. ASCII art, 6 lives.  
 6. **Timer** - a timer with two modes (until a specific time / after a time interval) and a chime
 ## Getting Started
 Clone the repository:
