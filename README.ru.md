@@ -12,7 +12,7 @@
 ## Начало работы
 Клонируйте репозиторий:  
 ```bash
-git clone [https://github.com/tensortea/simpleprojects.git](https://github.com/tensortea/simpleprojects.git)  
+git clone https://github.com/tensortea/simpleprojects.git  
 cd simpleprojects
 ```
 ### Обобщенный запуск всех проектов
