@@ -6,12 +6,12 @@ Each directory contains a `readme.md` file with a description of each project an
 
 
 ## Projects  
-1. **Calculator** - a simple console calculator. Supports arithmetic, powers, roots, and trigonometric functions.  
-2. **Guess the Number** - a number-guessing game with a limited number of attempts  
-3. **Password Generator** - a secure password generator of a specified length  
-4. **Converter** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
-5. **Hangman** - classic hangman game in the console. ASCII art, 6 lives.  
-6. **Timer** - a timer with two modes (at a specific time / after a delay) and a chime
+1. **[Calculator](./calculator)** - a simple console calculator. Supports arithmetic, powers, roots, and trigonometric functions.  
+2. **[Guess the Number](./guess_a_number)** - a number-guessing game with a limited number of attempts  
+3. **[Password Generator](./password_generator)** - a secure password generator of a specified length  
+4. **[Converter](./converter)** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
+5. **[Hangman](./hangman)** - classic hangman game in the console. ASCII art, 6 lives.  
+6. **[Timer](./timer)** - a timer with two modes (at a specific time / after a delay) and a chime
 ## Getting Started
 Clone the repository:
 ```bash
