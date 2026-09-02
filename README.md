@@ -1,8 +1,9 @@
+## [Русский](./README.ru.md)
+
 # Collection of small, lightweight, and trivially simple **Python** projects
 
 Each directory contains a `readme.md` file with a description of each project and a tutorial on how to run it at the end.  
 
-[Русский](./README.ru.md)
 
 ## Projects  
 1. **Calculator** - a simple console calculator. Supports arithmetic, powers, roots, and trigonometric functions.  
