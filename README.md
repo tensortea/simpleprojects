@@ -11,7 +11,8 @@ Each directory contains a `readme.md` file with a description of each project an
 3. **[Password Generator](./password_generator)** - a secure password generator of a specified length  
 4. **[Converter](./converter)** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
 5. **[Hangman](./hangman)** - classic hangman game in the console. ASCII art, 6 lives.  
-6. **[Timer](./timer)** - a timer with two modes (at a specific time / after a delay) and a chime
+6. **[Timer](./timer)** - a timer with two modes (at a specific time / after a delay) and a chime  
+7. **[Task Manager](./task_manager)** - a console to-do list with JSON persistence. Tasks survive restarts.
 ## Getting Started
 Clone the repository:
 ```bash
@@ -25,6 +26,4 @@ Download the `main.py` file, open the folder containing the file in the command 
 
 ## Upcoming Projects
 The following projects may be added:  
-1. Tic-Tac-Toe for two players or with a bot  
-2. Task Manager (ToDo list)  
-3. Short console visual novel  
+- Tic-Tac-Toe for two players or with a bot  
