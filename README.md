@@ -12,7 +12,7 @@ Each directory contains a `readme.md` file with a description of each project an
 4. **[Converter](./converter)** - converts values (e.g., Km to Miles, degrees Kelvin to Celsius)  
 5. **[Hangman](./hangman)** - classic hangman game in the console. ASCII art, 6 lives.  
 6. **[Timer](./timer)** - a timer with two modes (at a specific time / after a delay) and a chime  
-7. **[Task Manager](./task_manager)** - a console to-do list with JSON persistence. Tasks survive restarts.
+7. **[Task Manager(ToDo)](./ToDo)** - a console to-do list with JSON persistence. Tasks survive restarts.
 ## Getting Started
 Clone the repository:
 ```bash
